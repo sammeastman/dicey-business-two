@@ -1,0 +1,17 @@
+.dice{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 24px;
+}
+
+
+
+body {
+    background-color: rgb(135, 62, 202);
+}
